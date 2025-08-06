@@ -1,0 +1,20 @@
+Q1: Edge AI – Latency & Privacy
+Answer: Edge AI refers to deploying AI models directly on local devices (e.g., smartphones, sensors, drones) rather than relying on cloud servers. This approach significantly reduces latency because data is processed on-device, eliminating the need for round-trip communication with remote servers. It also enhances privacy by keeping sensitive data local, minimizing exposure to breaches or unauthorized access.
+Real-world Example: Autonomous drones used in disaster zones can detect survivors using onboard image classification. Since they process data locally, they respond instantly without relying on cloud connectivity—critical in areas with poor network coverage.
+
+Q2: Quantum AI vs Classical AI
+Answer: Classical AI uses binary logic and traditional computing architectures to solve problems. Quantum AI leverages quantum bits (qubits), which can represent multiple states simultaneously, enabling parallelism and faster computation for complex tasks.
+In optimization problems (e.g., route planning, drug discovery), Quantum AI can explore vast solution spaces more efficiently than classical algorithms. Industries that could benefit include:
+Pharmaceuticals: Accelerated molecule simulation
+Finance: Portfolio optimization
+Logistics: Real-time supply chain routing
+
+Q3: Human-AI Collaboration in Healthcare
+Answer: Human-AI collaboration in healthcare is transforming roles by augmenting—not replacing—medical professionals. AI can assist radiologists by flagging anomalies in scans, allowing faster and more accurate diagnoses. Nurses can use AI-powered tools to monitor patient vitals and predict deterioration, enabling proactive care.
+This shift empowers clinicians to focus on empathy, decision-making, and complex cases while AI handles routine analysis. However, it also requires retraining, trust-building, and ethical safeguards to ensure AI complements human judgment.
+
+Case Study Critique: AI-IoT in Smart Cities
+Answer: Integrating AI with IoT in smart cities enables real-time traffic management, energy optimization, and pollution control. Sensors collect data (e.g., vehicle flow, air quality), and AI models analyze patterns to adjust traffic lights, reroute vehicles, or trigger alerts.
+Challenges:
+Data Security: IoT devices are vulnerable to cyberattacks, risking public safety.
+Interoperability: Diverse devices and platforms may struggle to communicate, limiting system efficiency.
